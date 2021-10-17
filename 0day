@@ -1,0 +1,102 @@
+200	text/html	3219	GET	https://twitter.com/username/with_replies
+200	application/javascript	2759	GET	https://abs.twimg.com/responsive-web/client-web/polyfills.1c2e57b5.js
+200	application/javascript	145241	GET	https://abs.twimg.com/responsive-web/client-web/vendors~main.0b03d3a5.js
+200	application/javascript	76503	GET	https://abs.twimg.com/responsive-web/client-web/i18n/en.d7b1bc15.js
+200	application/javascript	445690	GET	https://abs.twimg.com/responsive-web/client-web/main.32acbfc5.js
+200	application/javascript	2074	GET	https://abs.twimg.com/responsive-web/client-web/ondemand.Dropdown.a075af45.js
+POST	https://api.twitter.com/1.1/jot/client_event.json
+200	application/javascript	248277	GET	https://abs.twimg.com/responsive-web/client-web/sharedCore.50a9b105.js
+200	application/javascript	15507	GET	https://abs.twimg.com/responsive-web/client-web/loader.AppModules.19b596c5.js
+200	application/javascript	4062	GET	https://abs.twimg.com/responsive-web/client-web/loader.SideNav.c931df15.js
+200	application/javascript	13367	GET	https://abs.twimg.com/responsive-web/client-web/bundle.UserProfile.bb887035.js
+200	application/javascript	27879	GET	https://abs.twimg.com/responsive-web/client-web/shared~loader.AudioDock~bundle.AudioSpacePeek~loader.AudioContextSpaceMedia~loader.AudioContextVoiceMedia.85288f35.js
+200	application/javascript	464	GET	https://abs.twimg.com/responsive-web/client-web/loader.AudioDock.027739c5.js
+200	application/json	90643	GET	https://pbs.twimg.com/hashflag/config-2021-10-17-02.json
+200	application/json	95	GET	https://twitter.com/i/api/graphql/f0Ap3leeiOnSx_lMKT8tGA/ViewerSuperFollowsFields?variables=%7B%7D
+200	application/javascript	2339	GET	https://abs.twimg.com/responsive-web/client-web/bundle.NetworkInstrument.cdad50e5.js
+POST	https://api.twitter.com/1.1/jot/client_event.json
+200	application/json	575	GET	https://twitter.com/i/api/1.1/account/settings.json?include_mention_filter=true&include_nsfw_user_flag=true&include_nsfw_admin_flag=true&include_ranked_timeline=true&include_alt_text_compose=true&ext=ssoConnections&include_country_code=true&include_ext_dm_nsfw_media_filter=true
+200	application/javascript	23979	GET	https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.b56d6005.js
+201	application/json	196	POST	https://ads-api.twitter.com/9/measurement/dcm_local_id
+POST	https://api.twitter.com/1.1/jot/client_event.json
+200	application/font-woff	49367	GET	https://abs.twimg.com/fonts/v2/chirp-regular-web.woff
+200	image/png	504	GET	https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+200	text/html	0	POST	https://api.twitter.com/1.1/jot/error_log.json
+200	application/json	127	POST	https://twitter.com/i/api/1.1/branch/init.json
+200	application/javascript	2289	GET	https://abs.twimg.com/responsive-web/client-web/loader.NewTweetsPill.3273c7d5.js
+200	application/javascript	5989	GET	https://abs.twimg.com/responsive-web/client-web/loader.WideLayout.9c25b0a5.js
+200	application/javascript	17378	GET	https://abs.twimg.com/responsive-web/client-web/shared~ondemand.InlinePlayer~loader.AudioOnlyVideoPlayer.e546efc5.js
+200	application/javascript	3071	GET	https://abs.twimg.com/responsive-web/client-web/loader.AudioOnlyVideoPlayer.85dcf375.js
+200	application/json	1104	GET	https://twitter.com/i/api/graphql/cYsDlVss-qimNYmNlb6inw/UserByScreenName?variables=%7B%22screen_name%22%3A%22username%22%2C%22withSafetyModeUserFields%22%3Atrue%2C%22withSuperFollowsUserFields%22%3Atrue%7D
+200	application/font-woff	51346	GET	https://abs.twimg.com/fonts/v2/chirp-bold-web.woff
+200	text/plain	17	GET	https://app.link/_r?sdk=web2.56.2&branch_key=key_live_knJAF6W45vSHVJiP0wn8figpqFePX59K&callback=branch_callback__0
+POST	https://api.twitter.com/1.1/jot/client_event.json
+200	application/json	573	GET	https://twitter.com/i/api/fleets/v1/avatar_content?user_ids=812364292095934464&only_spaces=true
+200	application/json	93	GET	https://twitter.com/i/api/1.1/friends/following/list.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cursor=-1&user_id=812364292095934464&count=3&with_total_count=true
+200	application/json	145	GET	https://twitter.com/i/api/graphql/o3OXj0LtB6MkqfR7o3_Fig/BizProfileFetchUser?variables=%7B%22rest_id%22%3A%22812364292095934464%22%7D
+200	application/font-woff	50979	GET	https://abs.twimg.com/fonts/v2/chirp-heavy-web.woff
+200	application/font-woff	51256	GET	https://abs.twimg.com/fonts/v2/chirp-medium-web.woff
+GET	https://cm.g.doubleclick.net/pixel?google_nid=twitter_dbm&google_redir=https://analytics.twitter.com/tpm&google_hm=NjIxOTRkYTEzYThjMzEzM2ZiYzQwOWEzNjA1Yjk5NThlODIxNGZjZWQxZTA2ZjFiOWM5YjMyM2Q2MjU3NjIxYg==
+200	application/javascript	5927	GET	https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.6b707015.js
+200	application/javascript	1614	GET	https://abs.twimg.com/responsive-web/client-web/ondemand.ProfileSidebar.97e16c85.js
+POST	https://api.twitter.com/1.1/jot/client_event.json
+200	application/json	17200	GET	https://twitter.com/i/api/graphql/JFlhDVYe9N0OQmMAcyOYdw/UserTweetsAndReplies?variables=%7B%22userId%22%3A%22812364292095934464%22%2C%22count%22%3A20%2C%22withTweetQuoteCount%22%3Atrue%2C%22includePromotedContent%22%3Atrue%2C%22withCommunity%22%3Atrue%2C%22withSuperFollowsUserFields%22%3Atrue%2C%22withUserResults%22%3Atrue%2C%22withBirdwatchPivots%22%3Afalse%2C%22withReactionsMetadata%22%3Afalse%2C%22withReactionsPerspective%22%3Afalse%2C%22withSuperFollowsTweetFields%22%3Atrue%2C%22withVoice%22%3Atrue%7D
+200	image/jpeg	15443	GET	https://pbs.twimg.com/profile_banners/812364292095934464/1631718595/600x200
+200	image/jpeg	7112	GET	https://pbs.twimg.com/profile_images/1396327021853253633/P0DT-y-a_200x200.jpg
+200	application/javascript	49387	GET	https://abs.twimg.com/responsive-web/client-web/ondemand.emoji.en.faf69ca5.js
+200	application/json	10443	GET	https://twitter.com/i/api/graphql/ZvEEmPWsLbTFrWn8p-PM1w/UserMedia?variables=%7B%22userId%22%3A%22812364292095934464%22%2C%22count%22%3A20%2C%22withTweetQuoteCount%22%3Afalse%2C%22includePromotedContent%22%3Afalse%2C%22withSuperFollowsUserFields%22%3Atrue%2C%22withUserResults%22%3Atrue%2C%22withBirdwatchPivots%22%3Afalse%2C%22withReactionsMetadata%22%3Afalse%2C%22withReactionsPerspective%22%3Afalse%2C%22withSuperFollowsTweetFields%22%3Atrue%2C%22withClientEventToken%22%3Afalse%2C%22withBirdwatchNotes%22%3Afalse%2C%22withVoice%22%3Atrue%7D
+200	application/json	27892	GET	https://twitter.com/i/api/graphql/88Bu08U2ddaVVjKmmXjVYg/articleNudgeDomains?variables=%7B%7D
+200	application/javascript	8841	GET	https://abs.twimg.com/responsive-web/client-web/loader.AbsolutePower.1bfdf845.js
+200	application/javascript	50206	GET	https://abs.twimg.com/responsive-web/client-web/shared~ondemand.EmojiPickerData~ondemand.ParticipantReaction~ondemand.EmojiPicker.b5aa2cc5.js
+200	application/javascript	13662	GET	https://abs.twimg.com/responsive-web/client-web/loader.TweetCurationActionMenu.f6a01465.js
+200	application/javascript	75422	GET	https://abs.twimg.com/responsive-web/client-web/loaders.video.PlayerHls14.ef71a125.js
+200	application/javascript	4478	GET	https://abs.twimg.com/responsive-web/client-web/ondemand.InlinePlayer.52194d45.js
+200	application/javascript	10662	GET	https://abs.twimg.com/responsive-web/client-web/shared~loaders.video.VideoPlayerDefaultUI~loader.MediaPreviewVideoPlayer~loaders.video.VideoPlayerEventsUI.38649645.js
+200	application/javascript	7497	GET	https://abs.twimg.com/responsive-web/client-web/shared~loaders.video.VideoPlayerDefaultUI~loaders.video.VideoPlayerEventsUI.25b27025.js
+200	application/javascript	6962	GET	https://abs.twimg.com/responsive-web/client-web/loaders.video.VideoPlayerDefaultUI.46dcbb65.js
+200	application/javascript	42004	GET	https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.4d3a7ee5.js
+200	application/json	1627	GET	https://abs.twimg.com/sticky/animations/like.3.json
+POST	https://api.twitter.com/1.1/jot/client_event.json
+GET	https://api.twitter.com/live_pipeline/events?topic=%2Ftweet_engagement%2F1449318555120328705
+200	image/svg+xml	735	GET	https://abs-0.twimg.com/emoji/v2/svg/1f1fa-1f1f8.svg
+200	image/jpeg	1883	GET	https://pbs.twimg.com/profile_images/1396327021853253633/P0DT-y-a_normal.jpg
+200	image/jpeg	1430	GET	https://pbs.twimg.com/profile_images/1396327021853253633/P0DT-y-a_mini.jpg
+200	image/jpeg	2491	GET	https://pbs.twimg.com/profile_images/1268206951994847232/WFJny2pP_normal.jpg
+200	image/png	173073	GET	https://pbs.twimg.com/media/E_5bSW6UcAoBY0E?format=png&name=small
+200	image/jpeg	7856	GET	https://pbs.twimg.com/card_img/1448447935059042308/Knmu3CHa?format=jpg&name=360x360
+200	application/javascript	11961	GET	https://abs.twimg.com/responsive-web/client-web/shared~loader.Typeahead~bundle.Communities~bundle.Explore~bundle.UserLists.ddacc045.js
+200	application/javascript	10977	GET	https://abs.twimg.com/responsive-web/client-web/shared~loader.Typeahead~bundle.Explore.370ea3a5.js
+200	application/javascript	2781	GET	https://abs.twimg.com/responsive-web/client-web/loader.Typeahead.407db5b5.js
+200	application/javascript	6418	GET	https://abs.twimg.com/responsive-web/client-web/loader.ExploreSidebar.b1543505.js
+200	application/json	2134	GET	https://twitter.com/i/api/1.1/users/recommendations.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&&pc=true&display_location=profile_accounts_sidebar&limit=4&user_id=812364292095934464&ext=mediaStats%2ChighlightedLabel%2CvoiceInfo%2CsuperFollowMetadata
+200	image/jpeg	2035	GET	https://pbs.twimg.com/profile_images/1248694316421308418/WNTp-x05_normal.jpg
+200	image/png	4771	GET	https://pbs.twimg.com/profile_images/1449428590412517379/J3UfIrGX_normal.png
+POST	https://api.twitter.com/1.1/jot/client_event.json
+200	image/jpeg	1807	GET	https://pbs.twimg.com/profile_images/1423249868424839169/GYaWkl_5_normal.jpg
+200	image/png	10414	GET	https://pbs.twimg.com/media/FB24-XbWUAA62ay?format=png&name=240x240
+200	image/jpeg	3815	GET	https://pbs.twimg.com/tweet_video_thumb/FBy-UU2WUAAR9ki?format=jpg&name=120x120
+200	image/jpeg	8090	GET	https://pbs.twimg.com/media/FBymxhQWYAY_OYh?format=jpg&name=240x240
+200	image/png	4798	GET	https://pbs.twimg.com/media/FBySBzxWQAUbJ_j?format=png&name=120x120
+200	image/png	13785	GET	https://pbs.twimg.com/media/FByQa15WEAItar-?format=png&name=120x120
+200	image/png	59263	GET	https://pbs.twimg.com/media/FByQa17XoAAyGb0?format=png&name=240x240
+200	text/plain	17	GET	https://app.link/_r?sdk=web2.56.2&branch_key=key_live_knJAF6W45vSHVJiP0wn8figpqFePX59K&callback=branch_callback__1
+200	application/json	1224	GET	https://twitter.com/i/api/1.1/broadcasts/show.json?ids=1nAKEYmdWNgKL&include_events=false
+200	image/jpeg	80329	GET	https://pbs.twimg.com/card_img/1449560082711121922/M3tKXJOl?format=jpg&name=orig
+200	image/jpeg	2263	GET	https://pbs.twimg.com/profile_images/1331986592320335891/-b4ojvji_normal.jpg
+200	application/json	3197	GET	https://twitter.com/i/api/2/guide.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweet=true&count=20&display_location=web_sidebar&include_page_configuration=false&profile_user_id=812364292095934464&entity_tokens=false&ext=mediaStats%2ChighlightedLabel%2CvoiceInfo%2CsuperFollowMetadata
+200	text/plain	1473	GET	https://twitter.com/i/api/1.1/live_video_stream/status/28_1449318548170362880?client=web&use_syndication_guest_id=false&cookie_set_host=twitter.com
+200	application/manifest+json	2865	GET	https://twitter.com/manifest.json
+200	image/vnd.microsoft.icon	912	GET	https://abs.twimg.com/favicons/twitter.ico
+200	video/mp2t	79988	GET	https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/replay_thumbnail/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJkIjowfQ/PJ_cjGJ6idR0Gg9CC1sVWkEdjNF1whaW6iUI6-x4HQ3HWDQ-tAFDphn4rj3HJycmuaLq_SxdUZAlh8eILvBUUw/chunk_1634381413098268022_985_a.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJBbGxvd2VkUHJvdG9jb2xzIjpbInRodW1iIl0sIkJyb2FkY2FzdElkIjoiMW5BS0VZbWRXTmdLTCIsIkdyYW50VHlwZSI6InJlYWQiLCJHcmFudGVkQXQiOjE2MzQ0MzcwNjcsIkdyYW50ZWRUbyI6InR3LTEiLCJTdHJlYW1OYW1lIjoiUEpfY2pHSjZpZFIwR2c5Q0Mxc1ZXa0Vkak5GMXdoYVc2aVVJNi14NEhRM0hXRFEtdEFGRHBobjRyajNISnljbXVhTHFfU3hkVVpBbGg4ZUlMdkJVVXciLCJleHAiOjE2MzQ2MDk4Njd9.GMjdBQMuiyRTgyCfW9CJGI_HVvftPoIWzZaZ60SfXWo&service=proxsee&digest=5QL399Og7dmSxOEKdDSgkDv8R6r9HK2-wyFHmE64b6g
+	GET	https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/PJ_cjGJ6idR0Gg9CC1sVWkEdjNF1whaW6iUI6-x4HQ3HWDQ-tAFDphn4rj3HJycmuaLq_SxdUZAlh8eILvBUUw/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_16812362655189702987.m3u8?type=replay
+200	image/png	5744	GET	https://abs.twimg.com/hashflags/HBOMaxPeacemaker2021/HBOMaxPeacemaker2021.png
+200	application/json	28	POST	https://twitter.com/i/api/1.1/promoted_content/log.json
+200	image/png	4035	GET	https://abs.twimg.com/responsive-web/client-web/icon-default.ee534d85.png
+200	image/jpeg	11414	GET	https://pbs.twimg.com/semantic_core_img/1436327651870871552/Grb0qnoz?format=jpg&name=240x240
+200	image/png	49733	GET	https://pbs.twimg.com/semantic_core_img/1338528076997672964/1bJm54ms?format=png&name=240x240
+	GET	https://api.twitter.com/live_pipeline/events?topic=%2Ftweet_engagement%2F1449318555120328705,%2Ftweet_engagement%2F1440689843588108294,%2Ftweet_engagement%2F1449551803566202885,%2Ftweet_engagement%2F1449545472553652229
+200	application/javascript	10653	GET	https://abs.twimg.com/responsive-web/client-web/bundle.Notifications.ebd38b85.js
+200	text/plain	17	GET	https://www.google-analytics.com/analytics.js
+200	application/json	1686	GET	https://twitter.com/i/api/2/notifications/all.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweet=true&count=20&ext=mediaStats%2ChighlightedLabel%2CvoiceInfo%2CsuperFollowMetadata
+200	application/json	77	GET	https://twitter.com/i/api/2/badge_count/badge_count.json?supports_ntab_urt=1
+	POST	https://api.twitter.com/1.1/jot/client_event.json
